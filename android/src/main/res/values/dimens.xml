@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="padding_hor">16dp</dimen>
+    <dimen name="padding_ver">24dp</dimen>
+
+    <dimen name="margin_hor">16dp</dimen>
+    <dimen name="margin_ver">16dp</dimen>
+
+    <!--Edit place-->
+    <dimen name="image_w">100dp</dimen>
+    <dimen name="image_h">100dp</dimen>
+    <dimen name="default_h">48dp</dimen>
+
+
+</resources>

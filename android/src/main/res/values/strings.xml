@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Мои места</string>
+    <string name="place.edit.et_address_hint">Описание</string>
+    <string name="place.edit.et_lat_hint">Широта</string>
+    <string name="place.edit.et_lon_hint">Долгота</string>
+    <string name="imageview.title">Превью</string>
+    <string name="map.title">Карта</string>
+    <string name="editor.title">Местоположение</string>
+    <string name="gmapsapikey">AIzaSyD2eJ0CvtG_bzuJ-SDOyF2JcJk3MyyQRxk</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_delete">Удалить</string>
+</resources>
